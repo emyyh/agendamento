@@ -1,8 +1,8 @@
-No backend executar:
+Executar backend:
 - npm i
 - npm run start
 
 
-No front executar:
+Executar frontend:
 - npm i
 - ng serve
